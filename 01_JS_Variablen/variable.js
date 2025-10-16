@@ -5,7 +5,7 @@ console.log ("Tolle Sache");
 //let b = 8;
 //let c = 10;
 
-
+console.log (yay)
 
 
  a = 3;
