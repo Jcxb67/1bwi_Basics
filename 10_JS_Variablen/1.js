@@ -3,13 +3,13 @@ console.log ("Tolle Sache");
 
 //let a = 7;
 //let b = 8;
-//let c = 10;
+let c = 10;
 
-console.log (yay)
+console.log("yay");
 
 
- a = 3;
- b = a+3;
+let a = 3;
+let b = a+3;
  c = c-3;
 
 
