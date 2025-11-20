@@ -10,4 +10,6 @@ console.log("8 Äpfel: " + Math.round(ApplePricePerKilo * 8 * AppleAverage));
 
 console.log("17 Bananen: " + Math.round(BananaPricePerKilo * 17 * BanaAverage));
 
-console.log
+console.log("1 Tonne Äpfel: " + Math.round(ApplePricePerKilo * 1000));
+
+console.log("1 Tonne Bananen: " + Math.round(BananaPricePerKilo * 1000));
